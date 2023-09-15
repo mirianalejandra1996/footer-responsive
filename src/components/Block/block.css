@@ -1,0 +1,19 @@
+.dropdown__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dropdown__line {
+    height: 1px;
+    background-color: #9999AD;
+    border: none;
+}
+
+.dropdown__title {
+    font-size: 1rem;
+}
+
+.dropdown__option {
+    font-size: 0.75rem;
+}

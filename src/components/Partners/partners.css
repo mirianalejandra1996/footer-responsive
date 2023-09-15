@@ -1,0 +1,30 @@
+.partners__main-container--mobile {
+    display: none;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.partners__main-container--desktop {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.partners-images {
+    margin-right: 2rem;
+}
+
+@media screen and (max-width: 576px) {
+ 
+    .partners__main-container--mobile {
+        display: flex;
+    }
+    
+    .partners__main-container--desktop {
+        display: none;
+    }
+
+    .partners-images {
+        margin-right: 0;
+    }
+  }

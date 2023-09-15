@@ -1,0 +1,9 @@
+.social-images {
+    margin-right: 1rem;
+}
+
+@media screen and (max-width: 576px) {
+    .social-images {
+        margin-right: 0;
+    }
+}
