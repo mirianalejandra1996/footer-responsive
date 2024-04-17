@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/footer-responsive/static/css/main.ffeec312.css",
+    "main.js": "/footer-responsive/static/js/main.b7387cfd.js",
+    "static/media/logo-eccom-award-2020.png": "/footer-responsive/static/media/logo-eccom-award-2020.a7e0e44bc3bcbf538519.png",
+    "static/media/logo-eccom-award-2021.png": "/footer-responsive/static/media/logo-eccom-award-2021.fa6658fbaa24ccef926d.png",
+    "static/media/instagram-fill.svg": "/footer-responsive/static/media/instagram-fill.8091fa117c06aaa7f591b51dcfd349c2.svg",
+    "static/media/linkedin-box-fill.svg": "/footer-responsive/static/media/linkedin-box-fill.fe3e0393b39e02cd2c4fb15e568136d7.svg",
+    "index.html": "/footer-responsive/index.html",
+    "static/media/facebook-box-fill.svg": "/footer-responsive/static/media/facebook-box-fill.5a16e495565e078e87ec41670cb94e27.svg",
+    "static/media/youtube-fill.svg": "/footer-responsive/static/media/youtube-fill.d18cd0bc4bdb2889d6be1bccb76435bc.svg",
+    "static/media/vector.svg": "/footer-responsive/static/media/vector.f6bbae6a0c7a6173d9db3c604c2fc93f.svg",
+    "main.ffeec312.css.map": "/footer-responsive/static/css/main.ffeec312.css.map",
+    "main.b7387cfd.js.map": "/footer-responsive/static/js/main.b7387cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffeec312.css",
+    "static/js/main.b7387cfd.js"
+  ]
+}
